@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AMBA Protocols verification using UVM.
 - 🌱 I’m currently learning UVM, Python and Computer Architecture.

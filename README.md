@@ -9,4 +9,4 @@
 - 📫 How to reach me: g.saibhargav5@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: System Verilog is not only for Verification but also for Synthesizing.
--->
+
